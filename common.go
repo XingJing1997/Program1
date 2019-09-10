@@ -2,6 +2,7 @@ package mapOperation
 
 import "sync"
 
+//jkihjoihoihgosadja
 /*对map进行常规安全的增删查改/初始化操作：加读写锁*/
 //安全的Map
 /*type SynchronizedMap struct{
