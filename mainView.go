@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"os"
 )
+//我是谭爽爽
 var(
 	id,title,author string
 	price float32
